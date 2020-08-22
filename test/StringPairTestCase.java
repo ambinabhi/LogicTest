@@ -2,8 +2,6 @@
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-import com.fileee.logic.SpiltUtils;
-
 class StringPairTestCase {
 
 	@Test

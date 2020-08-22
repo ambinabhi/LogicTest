@@ -3,8 +3,6 @@
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
-import com.fileee.logic.EmailUtils;
-
 class EmailValidationTest {
 
 	@Test
